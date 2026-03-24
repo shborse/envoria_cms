@@ -1,0 +1,21 @@
+[
+{
+    "model": "core.jobposition",
+    "pk": 1,
+    "fields": {
+        "title": "Python Developer Intern",
+        "department": "Development",
+        "location": "Pune, India",
+        "job_type": "internship",
+        "experience": "0-1 years",
+        "description": "Work on Python projects and assist senior developers.",
+        "responsibilities": ["Develop scripts","Assist in Django apps"],
+        "qualifications": ["Basic Python knowledge"],
+        "skills": ["Python","Git"],
+        "featured": true,
+        "status": "open",
+        "created_at": "2026-03-16T18:00:00Z",
+        "updated_at": "2026-03-16T18:00:00Z"
+    }
+}
+]

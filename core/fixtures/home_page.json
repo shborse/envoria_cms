@@ -1,0 +1,18 @@
+[
+    {
+    "model": "core.homepage",
+    "pk": 1,
+    "fields": {
+        "hero_title": "Welcome to Enorvia",
+        "hero_subtitle": "Learn. Grow. Succeed.",
+        "hero_description": "Empowering learners with industry-ready skills.",
+        "hero_cta_primary": {"text": "View Courses", "link": "/courses"},
+        "hero_cta_secondary": {"text": "Apply for Internship", "link": "/careers"},
+        "pillars": ["Innovation", "Collaboration", "Excellence"],
+        "stats": [{"students": 1200}, {"courses": 35}, {"partners": 10}],
+        "featured_projects": [1],
+        "partners": [1,2],
+        "updated_at": "2026-03-16T18:00:00Z"
+    }
+    }
+]

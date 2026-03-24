@@ -1,0 +1,18 @@
+[
+    {
+    "model": "core.sitemeta",
+    "pk": 1,
+    "fields": {
+        "site_name": "Enorvia Global",
+        "tagline": "Empowering Learning & Careers",
+        "description": "Enorvia Global Pvt. Ltd. provides online courses, internships, and career opportunities.",
+        "logo": "",
+        "phone": ["+91-9876543210"],
+        "email": "info@enorvia.com",
+        "address": "123, Tech Park, Pune, India",
+        "whatsapp": "+91-9876543210",
+        "social": {"facebook":"https://fb.com/enorvia","twitter":"https://twitter.com/enorvia","linkedin":"https://linkedin.com/company/enorvia"},
+        "updated_at": "2026-03-16T18:00:00Z"
+        }
+    }
+]

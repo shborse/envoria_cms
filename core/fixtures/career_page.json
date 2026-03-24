@@ -1,0 +1,14 @@
+[
+{
+    "model": "core.careerpage",
+    "pk": 1,
+    "fields": {
+        "page_title": "Join Our Team",
+        "page_subtitle": "Exciting Careers Await",
+        "description": "Explore our job openings and internships.",
+        "culture": ["Inclusive","Collaborative","Innovative"],
+        "benefits": ["Health Insurance","Flexible Hours","Skill Development"],
+        "updated_at": "2026-03-16T18:00:00Z"
+    }
+    }
+]

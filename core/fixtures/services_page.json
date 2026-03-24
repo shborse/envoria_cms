@@ -1,0 +1,12 @@
+[
+    {
+    "model": "core.servicespage",
+    "pk": 1,
+    "fields": {
+        "services": ["Online Courses","Internships","Career Counseling"],
+        "trainings": ["Python Bootcamp","Django Development","Data Science"],
+        "drt_open_school": {"name":"DRT Open School","info":"Flexible learning programs"},
+        "updated_at": "2026-03-16T18:00:00Z"
+    }
+    }
+]

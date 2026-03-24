@@ -1,0 +1,31 @@
+[
+    {
+    "model": "core.course",
+    "pk": 1,
+    "fields": {
+        "title": "Python for Beginners",
+        "slug": "python-for-beginners",
+        "category": "Programming",
+        "level": "Beginner",
+        "duration": "4 weeks",
+        "mode": "Online",
+        "language": "English",
+        "tagline": "Learn Python from scratch",
+        "short_description": "Start your programming journey with Python",
+        "description": "Comprehensive Python course for beginners.",
+        "instructor": 1,
+        "price": {"currency":"INR","amount":4999},
+        "highlights": ["Hands-on projects","Certificate"],
+        "learning_outcomes": ["Basic Python","OOP Concepts","Web Scraping"],
+        "requirements": ["PC with Internet"],
+        "career_opportunities": ["Junior Python Developer"],
+        "students_enrolled": 120,
+        "rating": 4.7,
+        "reviews": 50,
+        "certification": "Yes",
+        "featured": true,
+        "created_at": "2026-03-16T18:00:00Z",
+        "updated_at": "2026-03-16T18:00:00Z"
+        }
+    }
+]

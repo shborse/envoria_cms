@@ -1,0 +1,18 @@
+[
+    {
+    "model": "core.aboutpage",
+    "pk": 1,
+    "fields": {
+        "company_name": "Enorvia Global Pvt. Ltd.",
+        "founded_year": 2015,
+        "company_overview": "A leading provider of online learning and career opportunities.",
+        "company_mission": "Empower individuals through quality education.",
+        "company_vision": "Create a world of skilled professionals.",
+        "founder_name": "Anjali Mehta",
+        "founder_title": "CEO",
+        "founder_bio": "Anjali has 15 years of experience in EdTech and career development.",
+        "timeline": [{"year":2015,"event":"Founded"},{"year":2020,"event":"Reached 1000 students"}],
+        "updated_at": "2026-03-16T18:00:00Z"
+    }
+    }
+]
